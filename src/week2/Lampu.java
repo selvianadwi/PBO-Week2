@@ -16,7 +16,7 @@ public class Lampu {
     void nyalakanLampu() {
         nyala = true;
     }
-    
+   
     void matikanLampu() {
         nyala = false;
     }

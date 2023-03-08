@@ -1,5 +1,9 @@
 package week2;
-
+/*
+    Nama : Selviana Dwi Aprianti
+    NIM  : A11.2021.13721
+    KLPK : A11.4405
+*/
 //NOMOR 1
 public class Sepeda{
     //ini adalah tempat atribut
@@ -17,7 +21,7 @@ public class Sepeda{
     
     
     public static void main(String[] args) {
-        Sepeda sepeda = new Sepeda(2, "Gunung", "Polygon");
+        Sepeda sepeda = new Sepeda(2, "Balap", "Polygon");
         sepeda.ngerem();
         System.out.println("Gear sepeda: " + sepeda.gear);
     }
